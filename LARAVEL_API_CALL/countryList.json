@@ -1,0 +1,38 @@
+{
+    "status":"OK",
+    "status-code":200,
+    "version":"1.0",
+    "total":251,
+    "limit":100,
+    "offset":0,
+    "access":"public",
+    "data":{
+       "DZ":{
+          "01":{
+             "country":"Algeria",
+             "region":"Africa"
+          },
+          "02":{
+             
+          }
+       },
+       "AO":{
+          "01":{
+             "country":"Angola",
+             "region":"Africa"
+          },
+          "02":{
+             
+          }
+       },
+       "BJ":{
+          "01":{
+             "country":"Benin",
+             "region":"Africa"
+          },
+          "02":{
+             
+          }
+       }
+    }
+ }
